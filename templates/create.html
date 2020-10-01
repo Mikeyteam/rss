@@ -1,0 +1,21 @@
+<div class="row">
+    <div class="col-xs-2">
+    </div>
+    <div class="col-xs-4">
+        <p>Подсказка: Парсим - https://www.kommersant.ru/RSS/news.xml</p>
+        <p>https://www.vedomosti.ru/rss/rubric/lifestyle/interview</p>
+        <form role="form" method="POST" action="/saveRss">
+            <div class="form-group">
+                <label>Ссылка на RSS. Вводить валидный URL</label>
+                <input type="text" class="form-control" id="linkRss" name="linkRss" value="{{.linkRss}}"/>
+            </div>
+            <div class="form-group">
+                <label>Правило парсинга - слово которое должно содержаться в заголовках новостей. Если пустое то
+                    забираем все новости с сайта</label>
+                <input type="text" class="form-control" id="ruleParse" name="ruleParse" value="{{.ruleParse}}"/>
+            </div>
+            <button type="submit" class="btn btn-default">Парсить</button>
+        </form>
+    </div>
+</div>
+

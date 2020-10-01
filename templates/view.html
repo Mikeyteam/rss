@@ -1,0 +1,52 @@
+<div class="row">
+    <div class="col-xs-2">
+    </div>
+    <div class="col-xs-8">
+        <div class="search">
+            <form role="form" method="POST" action="/search">
+                <div class="form-group">
+                    <label>Поиск новости по строке в заголовке</label>
+                    <input type="text" class="form-control" id="search" name="search" value=""/>
+                </div>
+                <button type="submit" class="btn btn-default">Найти</button>
+            </form>
+        </div>
+    </div>
+    {{ if $value := . }}
+        <div class="col-xs-2">
+            <a href="/delete/all">УДАЛИТЬ ВСЕ СТАТЬИ</a><br>
+        </div>
+    {{end}}
+</div>
+{{ range $value := . }}
+    <div class="row">
+        <div class="col-xs-2">
+        </div>
+        <div class="col-xs-8">
+            <h3>{{$value.Title}}</h3>
+            <p>{{$value.Text}}</p>
+            <p>{{$value.NewsDate}}</p>
+        </div>
+        <div class="col-xs-2">
+            <p><br>
+                {{ if .Id }}
+                    <a href="/delete/{{.Id}}">Удалить статью</a><br>
+                {{ end }}
+            </p>
+        </div>
+    </div>
+{{else}}
+    <div class="row">
+        <div class="col-xs-2">
+        </div>
+        <div class="col-xs-8">
+            <br>
+            <b>Нет новостей</b>
+        </div>
+    </div>
+    <div class="col-xs-2">
+    </div>
+    </div>
+{{end}}
+
+

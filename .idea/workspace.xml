@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a95f09c-6cba-4bbd-b3bf-786106d9c1a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/rss.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/js/jquery-2.1.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/setup.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/20200823005555_create_news.down.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/migrations/20200823005555_create_news.up.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/news.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/routes.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/routes/routes_test.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/andybalholm/cascadia" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/json-iterator/go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/mantyr/newtime" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/mmcdole/gofeed" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/mmcdole/goxpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/modern-go/concurrent" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/github.com/modern-go/reflect2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/golang.org/x/net" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/golang.org/x/text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/create.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/view.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../go1.15rc2" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$" />
+      </list>
+    </option>
+    <option name="useGoPathFromSystemEnvironment" value="false" />
+  </component>
+  <component name="ProjectId" id="1i8ZZSyHxFU5Kn3lfLZzcXJg7d5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.dep.integrator" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1004" y="449" width="400" height="327" key="#Go_Modules" timestamp="1601456638479">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="1004" y="449" width="400" height="327" key="#Go_Modules/61.27.1859.1053@61.27.1859.1053" timestamp="1601456638479" />
+    <state x="517" y="469" width="1384" height="294" key="#SQL_Dialects" timestamp="1601388563887">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="517" y="469" width="1384" height="294" key="#SQL_Dialects/61.27.1859.1053@61.27.1859.1053" timestamp="1601388563887" />
+    <state x="809" y="277" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601388594100">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="809" y="277" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/61.27.1859.1053@61.27.1859.1053" timestamp="1601388594100" />
+    <state x="920" y="303" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601447911469">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="920" y="303" width="424" height="484" key="FileChooserDialogImpl/61.27.1859.1053@61.27.1859.1053" timestamp="1601447911469" />
+    <state x="729" y="251" key="SettingsEditor" timestamp="1601456743389">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="729" y="251" key="SettingsEditor/61.27.1859.1053@61.27.1859.1053" timestamp="1601456743389" />
+    <state x="629" y="249" width="1160" height="728" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1601543320858">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="629" y="249" width="1160" height="728" key="com.intellij.history.integration.ui.views.FileHistoryDialog/61.27.1859.1053@61.27.1859.1053" timestamp="1601543320858" />
+    <state x="905" y="355" width="618" height="580" key="find.popup" timestamp="1601547133305">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="905" y="355" width="618" height="580" key="find.popup/61.27.1859.1053@61.27.1859.1053" timestamp="1601547133305" />
+    <state x="870" y="351" width="672" height="678" key="search.everywhere.popup" timestamp="1601476464432">
+      <screen x="61" y="27" width="1859" height="1053" />
+    </state>
+    <state x="870" y="351" width="672" height="678" key="search.everywhere.popup/61.27.1859.1053@61.27.1859.1053" timestamp="1601476464432" />
+  </component>
+</project>
