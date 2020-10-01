@@ -19,49 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1a95f09c-6cba-4bbd-b3bf-786106d9c1a8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/rss.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/js/jquery-2.1.0.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/setup.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/20200823005555_create_news.down.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/migrations/20200823005555_create_news.up.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/models/news.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/routes.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/routes/routes_test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/PuerkitoBio/goquery" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/andybalholm/cascadia" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/json-iterator/go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/mantyr/newtime" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/mmcdole/gofeed" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/mmcdole/goxpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/modern-go/concurrent" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/github.com/modern-go/reflect2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/golang.org/x/net" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/golang.org/x/text" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/create.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/layout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/view.html" afterDir="false" />
-    </list>
+    <list default="true" id="1a95f09c-6cba-4bbd-b3bf-786106d9c1a8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
